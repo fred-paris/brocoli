@@ -10,5 +10,6 @@
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, enim aliquam ipsum nesciunt et provident 
 	mollitia. Aliquam, cupiditate, quidem ea sapiente aperiam incidunt temporibus esse blanditiis facilis accusamus nam similique.</p>
 	
+	<script type="text/js" src="js/broco.js"></script>
 </body>
 </html>
